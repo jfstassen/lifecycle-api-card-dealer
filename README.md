@@ -12,3 +12,5 @@ Inspired by Colt steele, November 2019
 - Axios with async await / try
 
 ![alt text](https://i.imgur.com/xHs576I.png "Preview")
+
+[Deployed on Netlify](https://flamboyant-hypatia-f3fe10.netlify.com/)
